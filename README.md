@@ -23,16 +23,16 @@
 
 ### 🚀 About Me
 
-```javascript
-const halis = {
-    code: ["Luau", "JavaScript", "TypeScript", "HTML/CSS", "Node.js"],
-    projects: {
-        current: "Horizon Hub",
-        portfolio: "[https://halis.pro](https://halis.pro)"
+```lua
+local halis = {
+    code = {"Luau", "JavaScript", "TypeScript", "HTML/CSS", "Node.js"},
+    projects = {
+        current = "Horizon Hub",
+        portfolio = "https://halis.pro"
     },
-    community: "[https://discord.gg/horizonhub](https://discord.gg/horizonhub)",
-    architecture: ["UI Libraries", "Roblox Scripting", "Web Applications"]
-};
+    community = "https://discord.gg/horizonhub",
+    architecture = {"UI Libraries", "Roblox Scripting", "Web Applications"}
+}
 ```
 
 ---
