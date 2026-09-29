@@ -43,7 +43,9 @@ const halis = {
   <a href="https://halis.pro"><img src="https://img.shields.io/badge/Portfolio-halis.pro-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://discord.gg/horizonhub"><img src="https://img.shields.io/badge/Discord-Horizon%20Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://github.com/HalisOnTop"><img src="https://img.shields.io/badge/GitHub-HalisOnTop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <br/>
+</p>
+
+<p align="center">
   <a href="https://instagram.com/xyzhalis"><img src="https://img.shields.io/badge/Instagram-@xyzhalis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://t.me/xyzhalis"><img src="https://img.shields.io/badge/Telegram-@xyzhalis-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://x.com/xyzhalis"><img src="https://img.shields.io/badge/X-@xyzhalis-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
@@ -53,10 +55,7 @@ const halis = {
 
 ### 🛠️ Tech Stack
 
-<details open>
-<summary><b>📜 Game Development & Core Languages</b></summary>
-<br/>
-
+#### 📜 Game Development & Core Languages
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,12 +64,7 @@ const halis = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>⚡ Web Development & Tools</b></summary>
-<br/>
-
+#### ⚡ Web Development & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,12 +72,7 @@ const halis = {
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🧰 Environment & Creative Tools</b></summary>
-<br/>
-
+#### 🧰 Environment & Creative Tools
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,14 +80,12 @@ const halis = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-</details>
-
 ---
 
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HalisOnTop&theme=darkhub&column=3&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HalisOnTop&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -120,15 +107,15 @@ const halis = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HalisOnTop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HalisOnTop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalisOnTop&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalisOnTop&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HalisOnTop&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HalisOnTop&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
