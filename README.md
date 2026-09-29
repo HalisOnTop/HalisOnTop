@@ -1,16 +1,63 @@
-# 👋 Hallo/Hello, I'm Halis
+<div align="center">
 
-### 🌐 Socials & Media
-[![Website](https://img.shields.io/badge/Portfolio-halis.pro-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://halis.pro)
-[![Discord](https://img.shields.io/badge/Discord-Horizon%20Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/horizonhub)
+<!-- Premium Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1f2c,100:0d1117&height=200&section=header&text=HALIS&fontSize=60&fontColor=00A2FF&desc=Full-Stack%20Developer%20%7C%20Luau%20Script%20Architect&descSize=18&descAlign=50&descAlignY=70&stroke=00A2FF&strokeWidth=1" width="100%" alt="Header Banner" />
+
+<br/>
+
+<!-- Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-00E676?style=for-the-badge&logo=github&logoColor=black" />
+  <a href="https://halis.pro"><img src="https://img.shields.io/badge/PORTFOLIO-HALIS.PRO-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://discord.gg/horizonhub"><img src="https://img.shields.io/badge/COMMUNITY-HORIZON%20HUB-7928CA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HalisOnTop&color=00a2ff&style=for-the-badge&label=VIEWS" />
+</p>
+
+</div>
+
+---
+
+### ⚡ Quick Overview
+
+- 🌐 **Portfolio:** [halis.pro](https://halis.pro)
+- 🚀 **Core Project:** Horizon Hub (Roblox Luau UI & Execution Architecture)
+- 🛠️ **Main Focus:** Luau Scripting, Web Applications & Custom UI Frameworks
+- 📍 **Location:** Turkey
+
+---
+
+### 🌐 Connect & Media
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Official_Website-halis.pro-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://halis.pro)
+[![Discord](https://img.shields.io/badge/Discord_Community-Horizon_Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/horizonhub)
 [![GitHub](https://img.shields.io/badge/GitHub-HalisOnTop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HalisOnTop)
+
+<br/>
+
 [![Instagram](https://img.shields.io/badge/Instagram-@xyzhalis-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xyzhalis)
 [![Telegram](https://img.shields.io/badge/Telegram-@xyzhalis-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xyzhalis)
 [![X](https://img.shields.io/badge/X-@xyzhalis-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xyzhalis)
 
+</div>
+
 ---
 
-### 🛠️ Tech Stack
+### 👑 Featured Projects
+
+<div align="center">
+
+| 🚀 **Horizon Hub** | 🌐 **Official Portfolio** |
+| :---: | :---: |
+| Roblox Luau UI Library & Script Execution Hub | Modern & Fast Personal Developer Showcase |
+| [<img src="https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/horizonhub) | [<img src="https://img.shields.io/badge/VISIT-HALIS.PRO-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://halis.pro) |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack & Skillset
 
 #### Core Languages & Scripting
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
@@ -41,7 +88,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-#### Tools & Environments
+#### Tools & Development Environment
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,7 +98,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Creative & Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -60,8 +106,7 @@
 
 ---
 
-### 🌟 Featured Projects
-
-* 🚀 **Horizon Hub** — Advanced Roblox Luau Script & Custom UI Library
-* 🌐 **Official Portfolio** — Personal Website Hosted at [halis.pro](https://halis.pro)
-* 
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1f2c,100:0d1117&height=80&section=footer&stroke=00A2FF&strokeWidth=1" width="100%" alt="Footer Banner" />
+</div>
