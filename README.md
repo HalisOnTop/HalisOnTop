@@ -1,21 +1,19 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Halis%20%7C%20Developer&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Halis%20%7C%20Developer&fontSize=38&fontColor=ffffff&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Halis%20%7C%20Developer&fontSize=38&fontColor=ffffff&animation=twinkling)" width="100%" />
 
-<!-- Dynamic Typing SVG -->
-<a href="https://halis.pro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Luau+%26+Lua+Script+Architect;Creator+of+Horizon+Hub;Visit+halis.pro" width="100%" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="[https://halis.pro](https://halis.pro)">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Luau+%26+Lua+Script+Architect;Creator+of+Horizon+Hub;Visit+halis.pro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00A2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Luau+%26+Lua+Script+Architect;Creator+of+Horizon+Hub;Visit+halis.pro)" width="100%" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Status Badges -->
-<p align="center">
-  <a href="https://halis.pro"><img src="https://img.shields.io/badge/Website-halis.pro-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <img src="https://komarev.com/ghpvc/?username=HalisOnTop&color=00a2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building%20Horizon%20Hub-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Status" />
-</p>
+<!-- Top Badges -->
+<a href="[https://halis.pro](https://halis.pro)"><img src="[https://img.shields.io/badge/Website-halis.pro-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Website-halis.pro-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white)" /></a>
+<img src="[https://komarev.com/ghpvc/?username=HalisOnTop&color=00a2ff&style=for-the-badge&label=VIEWS](https://komarev.com/ghpvc/?username=HalisOnTop&color=00a2ff&style=for-the-badge&label=VIEWS)" />
+<img src="[https://img.shields.io/badge/Status-Horizon%20Hub-brightgreen?style=for-the-badge&logo=roblox&logoColor=white](https://img.shields.io/badge/Status-Horizon%20Hub-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)" />
 
 </div>
 
@@ -23,39 +21,35 @@
 
 ### 🚀 About Me
 
-```lua
-local halis = {
-    code = {"Luau", "JavaScript", "TypeScript", "HTML/CSS", "Node.js"},
-    projects = {
-        current = "Horizon Hub",
-        portfolio = "https://halis.pro"
-    },
-    community = "https://discord.gg/horizonhub",
-    architecture = {"UI Libraries", "Roblox Scripting", "Web Applications"}
-}
-```
+* 👨‍💻 **Role:** Full-Stack Developer & Roblox Luau Script Architect
+* 🌐 **Portfolio:** [halis.pro](https://halis.pro)
+* 🚀 **Current Project:** Horizon Hub
+* 💬 **Community:** [Discord Server](https://discord.gg/horizonhub)
+* 🛠️ **Focus:** UI Libraries, Game Scripting & Modern Web Applications
 
 ---
 
 ### 🌐 Connect & Media
 
-<p align="center">
-  <a href="https://halis.pro"><img src="https://img.shields.io/badge/Portfolio-halis.pro-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://discord.gg/horizonhub"><img src="https://img.shields.io/badge/Discord-Horizon%20Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://github.com/HalisOnTop"><img src="https://img.shields.io/badge/GitHub-HalisOnTop-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://instagram.com/xyzhalis"><img src="https://img.shields.io/badge/Instagram-@xyzhalis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://t.me/xyzhalis"><img src="https://img.shields.io/badge/Telegram-@xyzhalis-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://x.com/xyzhalis"><img src="https://img.shields.io/badge/X-@xyzhalis-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
+<a href="https://halis.pro"><img src="https://img.shields.io/badge/Portfolio-halis.pro-00A2FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://discord.gg/horizonhub"><img src="https://img.shields.io/badge/Discord-Horizon%20Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://github.com/HalisOnTop"><img src="https://img.shields.io/badge/GitHub-HalisOnTop-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<a href="https://instagram.com/xyzhalis"><img src="https://img.shields.io/badge/Instagram-@xyzhalis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/xyzhalis"><img src="https://img.shields.io/badge/Telegram-@xyzhalis-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://x.com/xyzhalis"><img src="https://img.shields.io/badge/X-@xyzhalis-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 📜 Game Development & Core Languages
+#### 📜 Game Dev & Languages
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -64,7 +58,7 @@ local halis = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### ⚡ Web Development & Tools
+#### ⚡ Web Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -72,21 +66,13 @@ local halis = {
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### 🧰 Environment & Creative Tools
+#### 🧰 Environment & Tools
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HalisOnTop&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -107,15 +93,11 @@ local halis = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HalisOnTop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="[https://github-readme-stats.vercel.app/api?username=HalisOnTop&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=HalisOnTop&show_icons=true&theme=tokyonight&hide_border=true)" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalisOnTop&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HalisOnTop&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=HalisOnTop&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=HalisOnTop&layout=compact&theme=tokyonight&hide_border=true)" width="100%" />
 
 </div>
 
@@ -123,5 +105,5 @@ local halis = {
 
 <!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=120&section=footer" width="100%" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=100&section=footer)" width="100%" />
 </div>
